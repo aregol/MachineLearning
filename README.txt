@@ -1,4 +1,4 @@
-Machine Learning with Python se
+Machine Learning with Python sec
 
 pip install --upgrade setuptools
 
